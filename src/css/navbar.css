@@ -1,0 +1,39 @@
+
+.logo img{
+    width:71px;
+    color:white;
+}
+.search{
+    width:25    px;
+    
+   
+
+}
+.rightside input{
+     background-color: transparent;
+    border: transparent;
+    height: 30px;
+    color: white;
+
+}
+.rightside{
+    width:200px;
+    background-color: rgb(41, 39, 37);
+    float:right;
+    height: 40px;
+    margin-right:62px
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+   
+}
+.rightside img{
+    width:15px  ;
+}
+.search{
+    width: 25px;
+}
